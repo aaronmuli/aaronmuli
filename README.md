@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronmuli
 - 👀 I’m interested in technology, especially programming
-- 🌱 I’m a software development and game development
+- 🌱 I’m a software developer and logo designer
 - 💞️ I’m looking to collaborate on open source software
 - 📫 How to reach me, on instagram muli450, or send email to zionmurlley@gmail.com.
 
