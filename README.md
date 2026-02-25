@@ -1,5 +1,3 @@
-Here’s a clean, professional GitHub README you can use:
-
 # Hi, I’m Aaron 👋
 
 I’m a **Full-Stack Developer**, **SEO Content Writer**, and **Medical Student** based in Zambia.
